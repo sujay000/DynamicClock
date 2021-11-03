@@ -1,0 +1,16 @@
+body {
+  font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
+  color: #fff;
+  background-color: #374954;
+  text-align: center;
+}
+h1 {
+  font-size: 5.5rem;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
